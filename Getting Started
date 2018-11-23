@@ -1,0 +1,5 @@
+To use the atMega16, the USBasp and USB TTL Driver the following could be installed in order to connect and upload the code to the MEGATron Board v1.0
+Please note the softwares required are present in the same repository with branch named: Softwares
+1. AVRStudio 4.0 - This is an IDE which can be used to build and upload the hex file to the board.
+2. AVRBurner to the system - Used to upload the data from AVRStudio 4.0 to the MEGATron board using the USBAsp Programmer ![alt text](https://github.com/ronnitp/i3indyatechnology/blob/master/USBasp%20tomegatraon.jpg)
+3. Go to the Drivers sub repository and download and install the drivers
